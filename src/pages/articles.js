@@ -17,10 +17,10 @@ const FramerImage = motion(Image);
 
 const FeaturedArticles = ({ img, title, time, summary, link }) => {
   return (
-    <li className="col-span-1 w-full p-4 bg-light border border-solid border-dark rounded-2xl relative dark:bg-dark dark:border-light">
+    <li className="col-span-1 w-full p-4 bg-light border border-solid border-dark rounded-2xl relative dark:bg-dark dark:border-light ">
       <div
         className="absolute top-0 -right-3 -z-10 w-[101%] h-[103%] rounded-[2rem] bg-dark
-      rounded-br-3xl "
+      rounded-br-3xl dark:bg-light"
       />
       <Link
         href={link}
@@ -30,8 +30,8 @@ const FeaturedArticles = ({ img, title, time, summary, link }) => {
         <FramerImage
           src={img}
           alt={title}
-          className="w-full h-auto"
-          whileHover={{ scale: 1.05 }}
+          className="w-full h-auto rounded-lg"
+          whileHover={{ scale: 1.03 }}
           transition={{ duration: 0.2 }}
           priority
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 50vw"
