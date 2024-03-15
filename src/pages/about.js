@@ -52,26 +52,29 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Welcome! I'm Mosin Inamdar, a passionate web developer
+                Welcome! I&apos;m Mosin Inamdar, a passionate web developer
                 specializing in the MERN Stack. With over 2 years of experience,
                 I thrive on crafting beautiful and user-centered digital
-                experiences. My mission is to turn clients' visions into reality
-                through innovative solutions and meticulous attention to detail.
+                experiences. My mission is to turn clients&apos; visions into
+                reality through innovative solutions and meticulous attention to
+                detail.
               </p>
               <p className="my-4 font-medium">
                 I pride myself on my ability to bridge creativity with technical
-                expertise, whether it's designing intuitive user interfaces or
-                optimizing website performance. Transparency and communication
-                are at the forefront of my approach, ensuring clients are
-                actively involved throughout the development process. I'm
-                committed to staying ahead of industry trends, always seeking
-                new ways to push the boundaries of web development.
+                expertise, whether it&apos;s designing intuitive user interfaces
+                or optimizing website performance. Transparency and
+                communication are at the forefront of my approach, ensuring
+                clients are actively involved throughout the development
+                process. I&apos;m committed to staying ahead of industry trends,
+                always seeking new ways to push the boundaries of web
+                development.
               </p>
               <p className="font-medium">
-                Thank you for visiting my portfolio! Whether you're a business
-                owner, entrepreneur, or fellow developer, I'm excited about the
-                opportunity to collaborate and bring your digital projects to
-                life. Let's create something extraordinary together.
+                Thank you for visiting my portfolio! Whether you&apos;re a
+                business owner, entrepreneur, or fellow developer, I&apos;m
+                excited about the opportunity to collaborate and bring your
+                digital projects to life. Let&apos;s create something
+                extraordinary together.
               </p>
             </div>
             <div
