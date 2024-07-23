@@ -1,35 +1,85 @@
-# Next.Js Website: Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+# My Portfolio Website
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+Welcome to my portfolio website! This project showcases my work, skills, and projects in a visually appealing and interactive way. Built with Next.js, Tailwind CSS, and Framer Motion, it combines modern web development practices with elegant design and smooth animations.
 
-This repository contains starter code for Portfolio website created using NextJs. <br />
+## Table of Contents
 
-### Images of The Portfolio Website:
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
-![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
+## Introduction
 
+This portfolio website is a representation of my professional journey, showcasing my skills, experiences, and projects. It is designed to provide a seamless and engaging user experience, highlighting my work in the best possible way.
 
-### Resources Used in This Project
+## Features
 
-- Profile image in the home page created by using https://www.midjourney.com/ tool.
-- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
-on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
-- Fonts from https://fonts.google.com/ <br />
-- Icons from https://iconify.design/ <br />
-- LightBulb Svg from https://lukaszadam.com/illustrations <br />
+- **Responsive Design:** The website is fully responsive and looks great on all devices, from desktops to mobile phones.
+- **Smooth Animations:** Using Framer Motion, the site features smooth and interactive animations that enhance the user experience.
+- **Projects Showcase:** A dedicated section to showcase my projects with detailed descriptions, images, and links.
+- **About Me:** A personal section where I share my background, skills, and interests.
+- **Contact Form:** A simple contact form to get in touch with me easily.
 
-### External Libraries used in this project:
+## Technologies Used
 
-- [framer-motion](https://www.framer.com/motion/) <br />
-- [Tailwind css](https://tailwindcss.com/) <br />
+- **Next.js:** A powerful React framework for building fast and scalable web applications.
+- **Tailwind CSS:** A utility-first CSS framework for creating custom designs without writing CSS.
+- **Framer Motion:** A library for creating beautiful animations and interactions in React applications.
 
+## Getting Started
 
+To get a local copy of the project up and running, follow these steps:
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd your-portfolio
+   ```
+3. Install the dependencies:
+   ```sh
+   npm install
+   ```
+
+### Running the Application
+
+To start the development server, run:
+```sh
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Usage
+
+Explore the website to see my projects, read about my skills, and get in touch with me. Feel free to fork the repository and customize it to create your own portfolio.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Contact
+
+If you have any questions or want to get in touch, feel free to contact me via [email@example.com](mailto:mosininamdar18@example.com).
+
+---
+
+Thank you for visiting my portfolio website! I hope you enjoy exploring my work as much as I enjoyed creating it.
+
+---
