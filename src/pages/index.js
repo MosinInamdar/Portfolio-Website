@@ -34,14 +34,15 @@ export default function Home() {
                 className="!text-6xl !text-left mb-3 xl:!text-5xl lg:!text-center lg:!text=6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm ms:text-xs">
-                As a skilled full-stack developer, I am dedicated to turning
-                ideas into innovative web applications. Explore my latest
-                projects and articles, showcasing my expertise in React.js and
-                web development.
+                Full-stack software developer with 2.5+ years of experience
+                building scalable web applications across JavaScript, Node.js,
+                Angular, React, .NET, Python, and Drupal. Explore my projects
+                and experience in product development, APIs, and enterprise
+                tooling.
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
-                  href="/Resume.pdf"
+                  href="/Mosin_Resume_2026.pdf"
                   target={"_blank"}
                   className="flex items-center bg-dark text-light p-2.5 px-6
                 rounded-lg text-lg font-semibold hover:bg-light hover:text-dark

@@ -38,19 +38,19 @@ const Skills = () => {
         >
           web
         </motion.div>
-        <Skill name="HTML" x="-23vw" y="2vw" />
-        <Skill name="CSS" x="-5vw" y="-10vw" />
-        <Skill name="JavaScript" x="20vw" y="6vw" />
-        <Skill name="ReactJS" x="0vw" y="10vw" />
-        <Skill name="NextJS" x="-20vw" y="-15vw" />
-        <Skill name="Refine" x="15vw" y="-12vw" />
-        <Skill name="Flask" x="30vw" y="-8vw" />
-        <Skill name="C++" x="0vw" y="-20vw" />
-        <Skill name="Python" x="-5vw" y="25vw" />
-        <Skill name="Drupal" x="18vw" y="18vw" />
-        <Skill name="DBMS" x="-20vw" y="15vw" />
-        <Skill name="MongoDB" x="38vw" y="2vw" />
-        <Skill name="SQL" x="-38vw" y="0vw" />
+        <Skill name="JavaScript" x="-23vw" y="2vw" />
+        <Skill name="Node.js" x="-5vw" y="-10vw" />
+        <Skill name="Angular" x="20vw" y="6vw" />
+        <Skill name="React" x="0vw" y="10vw" />
+        <Skill name=".NET" x="-20vw" y="-15vw" />
+        <Skill name="Python" x="15vw" y="-12vw" />
+        <Skill name="Drupal" x="30vw" y="-8vw" />
+        <Skill name="Microsoft Azure" x="0vw" y="-20vw" />
+        <Skill name="Power BI" x="-5vw" y="25vw" />
+        <Skill name="Blockchain" x="18vw" y="18vw" />
+        <Skill name="Communication" x="-20vw" y="15vw" />
+        <Skill name="Leadership" x="38vw" y="2vw" />
+        <Skill name="Adaptability" x="-38vw" y="0vw" />
       </div>
     </>
   );

@@ -3,7 +3,7 @@ import Layout from "@/components/Layout";
 import Head from "next/head";
 import Image from "next/image";
 import React, { useEffect, useRef } from "react";
-import profilePic from "../../public/images/profile/profileImage.png";
+import profilePic from "../../public/images/profile/profileImage.jpg";
 import { useInView, useMotionValue, useSpring } from "framer-motion";
 import Skills from "@/components/Skills";
 import Experience from "@/components/Experience";
@@ -52,29 +52,23 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Welcome! I&apos;m Mosin Inamdar, a passionate web developer
-                specializing in the MERN Stack. With over 2 years of experience,
-                I thrive on crafting beautiful and user-centered digital
-                experiences. My mission is to turn clients&apos; visions into
-                reality through innovative solutions and meticulous attention to
-                detail.
+                Welcome! I&apos;m Mosin Inamdar, a full-stack software developer
+                with 2.5+ years of hands-on experience building and maintaining
+                scalable web applications across JavaScript, Node.js, Angular,
+                React, .NET, Python, and Drupal ecosystems.
               </p>
               <p className="my-4 font-medium">
-                I pride myself on my ability to bridge creativity with technical
-                expertise, whether it&apos;s designing intuitive user interfaces
-                or optimizing website performance. Transparency and
-                communication are at the forefront of my approach, ensuring
-                clients are actively involved throughout the development
-                process. I&apos;m committed to staying ahead of industry trends,
-                always seeking new ways to push the boundaries of web
-                development.
+                I bring experience in product development, backend APIs,
+                blockchain-related systems, and enterprise tooling. I&apos;m
+                known for strong problem-solving, writing clean and maintainable
+                code, and quickly adapting to new technologies in fast-paced
+                teams.
               </p>
               <p className="font-medium">
-                Thank you for visiting my portfolio! Whether you&apos;re a
-                business owner, entrepreneur, or fellow developer, I&apos;m
-                excited about the opportunity to collaborate and bring your
-                digital projects to life. Let&apos;s create something
-                extraordinary together.
+                Thank you for visiting my portfolio! Whether you&apos;re looking
+                for a collaborator on product work or a teammate who can move
+                across the stack, I&apos;m excited about the opportunity to work
+                together. Let&apos;s build something great.
               </p>
             </div>
             <div
